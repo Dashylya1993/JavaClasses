@@ -13,6 +13,7 @@ public class StringBufferDemo {
 		str2.concat(" friends");// New object gets created that will have value "Hello friends" --> no one takes it
 		System.out.println(str2);//Hello
 		
-	}
+	
 
+}
 }
